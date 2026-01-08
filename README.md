@@ -5,7 +5,7 @@ NumSense is an interactive number guessing dashboard built using **Python and St
 
 ---
 
-## 🚀 Features
+##  FEATURES
 
 ### 🎯 Difficulty-Based Gameplay
 - Three difficulty levels: **Easy, Medium, Hard**
